@@ -1,0 +1,11 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .area {
+    width: 970px;
+  }
+  .logo {
+    width: 180px;
+  }
+  .menu {
+    width: 500px;
+  }
+}
